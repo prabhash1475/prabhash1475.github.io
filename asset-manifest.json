@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.e27d69b6.css",
-    "main.js": "/static/js/main.a1a2c984.js",
+    "main.js": "/static/js/main.1b629121.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/logo.png": "/static/media/logo.476154aebc9c53028447.png",
     "static/media/Prabhash_Kumar_Resume.pdf": "/static/media/Prabhash_Kumar_Resume.ed9fe8b3b782d5f9f4b3.pdf",
     "static/media/pkphoto.png": "/static/media/pkphoto.f5e62928f52c6ffbaa6a.png",
     "static/media/max.png": "/static/media/max.7f8643b4c7def7a905f9.png",
+    "static/media/logo.png": "/static/media/logo.941eab1583c06d8d8681.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/bestbuy.png": "/static/media/bestbuy.790e2598cec781c9465d.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.e27d69b6.css.map": "/static/css/main.e27d69b6.css.map",
-    "main.a1a2c984.js.map": "/static/js/main.a1a2c984.js.map",
+    "main.1b629121.js.map": "/static/js/main.1b629121.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e27d69b6.css",
-    "static/js/main.a1a2c984.js"
+    "static/js/main.1b629121.js"
   ]
 }
